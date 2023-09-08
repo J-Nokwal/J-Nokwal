@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J-Nokwal // Jagrit Nokwal
 - 👀 I’m interested in Coding,Music,PC games
-- 🌱 I’m currently learning Flutter,Data Structure
-- 💞️ I’m looking to collaborate on flutter Project
+- 🌱 I’m currently learning React,Data Structure
+- 💞️ I’m looking to collaborate on React,flutter,golang Project
 - 📫 How to reach me jagritnokwal9@gmail.com
